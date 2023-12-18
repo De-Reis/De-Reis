@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como Analista Financeiro Jr.
 - 🌱 Estudando Front-end 
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Cursando Bacharel em Geografia na Universidade de São Paulo
+
 
 <div align="center">
   <a href="https://github.com/De-Reis">
